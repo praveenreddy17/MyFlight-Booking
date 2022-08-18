@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: cogjava1793
+Build-Jdk: 11.0.12
+Implementation-Title: Springboot hibernate tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: jcg.tutorial
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
